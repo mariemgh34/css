@@ -1,0 +1,31 @@
+nav {
+    background-color: brown;
+}
+.navbar a  {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+
+}
+body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(picture2.png) ;
+    
+    
+
+}
+section{
+    
+    padding: 30px;
+}
+label{
+    padding: 50px;
+    margin-bottom: 30px;
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
